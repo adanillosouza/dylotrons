@@ -29,4 +29,5 @@ Desenvolvedor Android com sólida formação em Análise e Desenvolvimento de Si
 - 🌟 Navigation
 - 🌟 MotionLayout
 
+## Fale comigo
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/danillo-souza-dannyo/)
